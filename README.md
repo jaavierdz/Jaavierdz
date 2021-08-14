@@ -1,11 +1,13 @@
-🖐¡Hola, Soy Javius!
+🖐¡Hey, I'm Javius!
 
-🔧 Lenguajes:
+🔧 Languages:
 - JavaScript
 - Python
 - VisualBasic
-👑 Proyectos:
- De momento ninguno :b
+- HTML
+
+📋 Projects:
+ - www.javius.tk | Personal Web
 
 Todos los Repositorios son pertenecientes a Javius.
 (c) JaviusG, 2021
