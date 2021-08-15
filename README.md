@@ -8,7 +8,7 @@ Hey there!👋 I am Javius a pretty new developer. I run a Minecraft server and 
 💬 Ask me about whatever you want.
 
 📫 How to reach me: E-Mail: info@javius.tk
-Developers Pub
+
 
 😄 Pronouns: he/him
 
