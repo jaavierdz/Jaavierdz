@@ -1,18 +1,8 @@
-# Welcome to my Github Profile!
-Hey there!👋 I am Javius a pretty new developer. I run a Minecraft server and I'm developing my own web
+![Banner](https://i.imgur.com/RqmFDyr.png)
 
-## What I'm doing?
+[<img align="left" src="https://svgshare.com/i/g7B.svg">](https://discord.com/users/904673393725554728)
 
-🔧 I’m developing my web
+## 👋 Intro
+I'm Javius (usally called Javier in realife) a young hobby developer based in the capital city of Spain. If you are here, congrats! 🎉
 
-💬 Ask me about whatever you want.
-
-📫 How to reach me: E-Mail: info@javius.tk
-
-
-😄 Pronouns: he/him
-
-🌐 My Website: javius.tk
-
-### My discord:
-https://discord.gg/JmjRuqXPEz
+**🔗 Links:** [🌐 Website](https://web.javius.ml), [🗨️ Discord Server](https://discord.gg/mY7ta2UNMf)
