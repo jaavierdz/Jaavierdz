@@ -1,4 +1,4 @@
-![Banner](https://i.imgur.com/RqmFDyr.png)
+![Banner](https://i.imgur.com/WLsFFTq.png)
 
 [<img align="left" src="https://svgshare.com/i/g7B.svg">](https://discord.com/users/904673393725554728)
 
