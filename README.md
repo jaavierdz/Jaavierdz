@@ -5,4 +5,4 @@
 ## 👋 Intro
 I'm Javius (usally called Javier in realife) a young hobby developer based in the capital city of Spain. If you are here, congrats! 🎉
 
-**🔗 Links:** [🌐 Website](https://web.javius.ml), [🗨️ Discord Server](https://discord.gg/mY7ta2UNMf)
+**🔗 Links:** [🌐 Website](https://web.javitxu.ml), [🗨️ Discord Server](https://discord.gg/mY7ta2UNMf)
