@@ -1,8 +1,11 @@
-![Banner](https://i.imgur.com/WLsFFTq.png)
+# Welcome 👋
 
-[<img align="left" src="https://svgshare.com/i/g7B.svg">](https://discord.com/users/904673393725554728)
+![Javierdz](https://go.javierdz.xyz/banner.png)
 
-## 👋 Intro
-I'm Javius (usally called Javier in realife) a young hobby developer based in the capital city of Spain. If you are here, congrats! 🎉
+I'm a hobby programer, I mainly write in HTML but I'm learning C++. I am one year away from finishing high school 🛠
 
-**🔗 Links:** [🌐 Website](https://web.javitxu.ml), [🗨️ Discord Server](https://discord.gg/mY7ta2UNMf)
+### Statistics
+[!Javierdz's Github Statistics](https://github.com/anuraghazra/github-readme-stats)]
+
+Working on this readme!
+
