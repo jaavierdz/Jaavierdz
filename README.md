@@ -14,7 +14,7 @@ I'm a passionate self-teaching developer located in [Madrid, Spain](https://www.
 
 
 
-[![Javierdz's Website](https://github-readme-stats.vercel.app/api/pin/?username=jaavierdz&repo=website&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Javierdz's Website](https://github-readme-stats.vercel.app/api/pin/?username=jaavierdz&repo=website&show_icons=true)](https://github.com/jaavierdz/website)
 
 [![Javierdz's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaavierdz&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![forthebadge](https://forthebadge.com/images/featured/featured-built-with-love.svg)](https://forthebadge.com)
