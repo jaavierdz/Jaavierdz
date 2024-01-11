@@ -5,8 +5,9 @@
 
 I'm a passionate self-teaching developer located in [Madrid, Spain](https://www.google.com/search?q=madrid)<br><br>
   * 💻 Working nightime
-  * :brain: Learning HTML, JS and C++
+  * :brain: Learning HTML, JS and Java
   * 🛠️ Working on my [website](https://javierdz.xyz)
+  * :gear: Next project: Minecraft plugin for Spigot
   * 💬 Ask me anything [here](https://github.com/jaavierdz/jaavierdz/issues)
 
 
@@ -18,3 +19,5 @@ I'm a passionate self-teaching developer located in [Madrid, Spain](https://www.
 
 [![Javierdz's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaavierdz&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![forthebadge](https://forthebadge.com/images/featured/featured-built-with-love.svg)](https://forthebadge.com)
+
+:star: **from [Javierdz](https://javierdz.xyz)**
