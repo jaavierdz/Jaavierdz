@@ -5,9 +5,9 @@
 
 I'm a passionate self-teaching developer located in [Madrid, Spain](https://www.google.com/search?q=madrid)<br><br>
   * 💻 Working nightime
-  * :brain: Learning HTML, JS and Java
+  * :brain: Fluent with Java, Python, JS and HTML
   * 🛠️ Working on my [website](https://javierdz.xyz)
-  * :gear: Next project: Minecraft plugin for Spigot
+  * :gear: Next project: Minecraft plugin for Spigot (In progess)
   * 💬 Ask me anything [here](https://github.com/jaavierdz/jaavierdz/issues)
 
 
