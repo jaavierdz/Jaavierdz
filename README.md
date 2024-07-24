@@ -4,6 +4,7 @@
 <a href="https://go.javierdz.xyz/discord"><img width="50" height="50" src="https://img.icons8.com/ios/50/discord-logo.png" alt="discord-logo"/></a>
 
 I'm a passionate self-teaching developer located in [Madrid, Spain](https://www.google.com/search?q=madrid)<br><br>
+I program shit and I upload it to youtube (not yet)
   * 💻 Working nightime
   * :brain: Fluent with Java, Python, JS and HTML
   * 🛠️ Working on my [website](https://javierdz.xyz)
