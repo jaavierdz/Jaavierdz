@@ -2,3 +2,5 @@
 # Hello!
 I'm Javier, a software developer based in Madrid, Spain<br>
 w: [https://javierdz.me](https://javierdz.me)
+Feel free to contact me!<br>
+[Linkedin](https://go.javierdz.me/linkedin)[Mail](mailto:javier@javierdz.me)
