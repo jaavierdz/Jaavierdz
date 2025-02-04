@@ -3,8 +3,12 @@
 
 # Hello!
 I'm Javier, a software developer based in Madrid, Spain<br>
-w: [https://javierdz.me](https://javierdz.me)<br>
+website: [https://javierdz.me](https://javierdz.me)<br>
 Feel free to contact me!<br>
 <a href="https://go.javierdz.me/linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   <br>[Mail](mailto:javier@javierdz.me)<br><br><br>
 # Stats
 ![img](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jaavierdz) ![img](https://github-readme-streak-stats.herokuapp.com/?user=Jaavierdz&theme=dark)
+
+# Projects
+⚒️ - Spigot Plugin (Will be soon in SpigotMC)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.javierdz.me%2Fv1%2Fspigot.json&query=%24.progress&style=flat-square&logo=SpigotMC&label=Progress)
