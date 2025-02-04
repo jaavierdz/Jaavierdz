@@ -1,4 +1,6 @@
-[![wakatime](https://wakatime.com/badge/user/4fc3c757-b506-415a-9f34-ec41d1af6160/project/35ccd594-cb2e-4433-9688-fb7bda0668c6.svg)](https://wakatime.com/badge/user/4fc3c757-b506-415a-9f34-ec41d1af6160/project/35ccd594-cb2e-4433-9688-fb7bda0668c6) ![img](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaavierdz1232%2Fhit-counter)
+![semen](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaavierdz1232%2Fhit-counter)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.javierdz.me%2Fv1%2Fbadges.json&query=%24.projects&logo=https%3A%2F%2Fsimpleicons.org%2Ficons%2Fintellijidea.png&logoColor=%23000000&logoSize=auto&label=IntelliJ%20Projects&link=https%3A%2F%2Fwww.ooskar.com)
+
 # Hello!
 I'm Javier, a software developer based in Madrid, Spain<br>
 w: [https://javierdz.me](https://javierdz.me)<br>
