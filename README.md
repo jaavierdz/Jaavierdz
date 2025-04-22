@@ -10,5 +10,5 @@ Feel free to contact me!<br>
 ![img](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jaavierdz) ![img](https://github-readme-streak-stats.herokuapp.com/?user=Jaavierdz&theme=dark)
 
 # Projects
-⚒️ - Spigot Plugin (Will be soon in SpigotMC)
+⚒️ - [Spigot Plugin](https://github.com/jaavierdz/SurvivalPlugin1.12.2) (Will be soon in SpigotMC)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.javierdz.me%2Fv1%2Fspigot.json&query=%24.progress&style=flat-square&logo=SpigotMC&label=Progress)
