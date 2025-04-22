@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/jaavierdz"><img src="https://img.shields.io/github/followers/jaavierdz?label=Follow&style=social" alt="GitHub Followers"></a>
-  <a href="https://x.com/javieerdzzz"><img src="https://img.shields.io/twitter/follow/jaavierdz?style=social" alt="Twitter Follow"></a>
+  <a href="https://x.com/javieerdzzz"><img src="https://img.shields.io/twitter/follow/javieerdzzz?style=social" alt="Twitter Follow"></a>
   <a href="mailto:javier@javierdz.me"><img src="https://img.shields.io/badge/email-javier@javierdz.me-blue?style=flat&logo=gmail"></a>
   <a href="https://javierdz.me"><img src="https://img.shields.io/badge/Portfolio-javierdz.xyz-orange?style=flat&logo=vercel"></a>
 </p>
