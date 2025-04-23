@@ -15,7 +15,7 @@
 - 🌱 I’m always learning — currently exploring **Next.js**, **AI integrations**, and **backend architecture**.
 - ⚡ Fun fact: I started coding to automate everyday life problems.
 - 💼 I work on personal and freelance projects, always striving for clean, scalable code.
-- 🌍 I speak Spanish 🇲🇽 & English 🇺🇸 fluently.
+- 🌍 Based in Madrid | I speak Spanish & English fluently.
 - 🔗 Visit my portfolio: [javierdz.me](https://javierdz.me)
 
 ---
