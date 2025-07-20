@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Javier</h1>
-<h3 align="center">Developer | Tech Enthusiast | Lifelong Learner</h3>
+<h3 align="center">Developer | Student | Cybersecurity Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/jaavierdz"><img src="https://img.shields.io/github/followers/jaavierdz?label=Follow&style=social" alt="GitHub Followers"></a>
@@ -22,7 +22,7 @@
 
 ### 🛠️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
@@ -49,7 +49,7 @@
 
 - 🐦 Twitter: [@javieerdzzz](https://x.com/javieerdzzz))
 - 🌐 Website: [javierdz.me](https://javierdz.me)
-- 📧 Email: javier@javierdz.me
+- 📧 Email: [javier@javierdz.me](mailto:javier@javierdz.me)
 
 ---
 
