@@ -5,7 +5,7 @@
   <a href="https://github.com/jaavierdz"><img src="https://img.shields.io/github/followers/jaavierdz?label=Follow&style=social" alt="GitHub Followers"></a>
   <a href="https://x.com/javieerdzzz"><img src="https://img.shields.io/twitter/follow/javieerdzzz?style=social" alt="Twitter Follow"></a>
   <a href="mailto:javier@javierdz.me"><img src="https://img.shields.io/badge/email-javier@javierdz.me-blue?style=flat&logo=gmail"></a>
-  <a href="https://javierdz.me"><img src="https://img.shields.io/badge/Portfolio-javierdz.me-orange?style=flat&logo=vercel"></a>
+  <a href="https://javierdz.dev"><img src="https://img.shields.io/badge/Portfolio-javierdz.dev-orange?style=flat&logo=vercel"></a>
 </p>
 
 ---
@@ -16,7 +16,7 @@
 - ⚡ Fun fact: I started coding to automate everyday life problems.
 - 💼 I work on personal and freelance projects, always striving for clean, scalable code.
 - 🌍 Based in Madrid | I speak Spanish & English fluently.
-- 🔗 Visit my portfolio: [javierdz.me](https://javierdz.me)
+- 🔗 Visit my portfolio: [javierdz.dev](https://javierdz.dev)
 
 ---
 
@@ -48,8 +48,8 @@
 ### 📫 Let's Connect
 
 - 🐦 Twitter: [@javieerdzzz](https://x.com/javieerdzzz))
-- 🌐 Website: [javierdz.me](https://javierdz.me)
-- 📧 Email: [javier@javierdz.me](mailto:javier@javierdz.me)
+- 🌐 Website: [javierdz.dev](https://javierdz.dev)
+- 📧 Email: [javier@javierdz.dev](mailto:javier@javierdz.dev)
 
 ---
 
