@@ -47,7 +47,7 @@
 
 ### 📫 Let's Connect
 
-- 🐦 Twitter: [@javieerdzzz](https://x.com/javieerdzzz))
+- 🐦 Twitter: [@javieerdzzz](https://x.com/javieerdzzz)
 - 🌐 Website: [javierdz.dev](https://javierdz.dev)
 - 📧 Email: [javier@javierdz.dev](mailto:javier@javierdz.dev)
 
