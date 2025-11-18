@@ -1,59 +1,53 @@
-<h1 align="center">Hi there 👋, I'm Javier</h1>
-<h3 align="center">Developer | Student | Cybersecurity Enthusiast</h3>
+# 👋 Hola, soy Javier
 
-<p align="center">
-  <a href="https://github.com/jaavierdz"><img src="https://img.shields.io/github/followers/jaavierdz?label=Follow&style=social" alt="GitHub Followers"></a>
-  <a href="https://x.com/javieerdzzz"><img src="https://img.shields.io/twitter/follow/javieerdzzz?style=social" alt="Twitter Follow"></a>
-  <a href="mailto:javier@javierdz.me"><img src="https://img.shields.io/badge/email-javier@javierdz.me-blue?style=flat&logo=gmail"></a>
-  <a href="https://javierdz.dev"><img src="https://img.shields.io/badge/Portfolio-javierdz.dev-orange?style=flat&logo=vercel"></a>
-</p>
+### Estudiante de Sistemas Microinformáticos y Redes • Desarrollador en formación  
+Apasionado por la ciberseguridad, el desarrollo backend y la creación de herramientas útiles… o al menos funcionales.
 
 ---
 
-### 👨‍💻 About Me
+## 🚀 Proyectos destacados
 
-- 🌱 I’m always learning — currently exploring **Next.js**, **AI integrations**, and **backend architecture**.
-- ⚡ Fun fact: I started coding to automate everyday life problems.
-- 💼 I work on personal and freelance projects, always striving for clean, scalable code.
-- 🌍 Based in Madrid | I speak Spanish & English fluently.
-- 🔗 Visit my portfolio: [javierdz.dev](https://javierdz.dev)
+- **Servidor Proxmox Casero**  
+  Hosting de mi web, servidor de minecraft para mis amigos...
 
----
+- **Webapps con Firebase + Next.js**  
+  Autenticación, Firestore, paneles de control y dashboards en tiempo real.
 
-### 🛠️ Tech Stack
+- **Contador de horas de trabajo (Vercel + Firebase)**  
+  Sesiones, pausas, historial y estadísticas.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=fff)
+- **CDN personalizada**  
+  API en Node.js, subida de archivos, autenticación, errores personalizados y dashboard.
+
+- **Consultas EMT Madrid**  
+  Tiempos de llegada, favoritos y cuentas de usuario.
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tecnologías que uso
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaavierdz&show_icons=true&theme=radical" alt="GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaavierdz&theme=radical" alt="GitHub Streak" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaavierdz&layout=compact&theme=radical" width="48%"/>
-</p>
+**Frontend:** Next.js, React, Tailwind CSS  
+**Backend:** Node.js, Express, Java  
+**Infra:** Firebase, Vercel, VPS, Docker  
+**Extras:** Webhooks, APIs REST, Firestore, SQLite  
 
 ---
 
-### 📫 Let's Connect
+## 📊 Estadísticas
 
-- 🐦 Twitter: [@javieerdzzz](https://x.com/javieerdzzz)
-- 🌐 Website: [javierdz.dev](https://javierdz.dev)
-- 📧 Email: [javier@javierdz.dev](mailto:javier@javierdz.dev)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaavierdz&show_icons=true&hide_border=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaavierdz&layout=compact&hide_border=true&theme=tokyonight)
 
 ---
 
-<!-- GitHub Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaavierdz&style=flat-square&color=blue" alt="Profile Views" />
-</p>
+## 📫 Contacto
+
+- **Email:** [hi@javierdz.dev](mailto:hi@javierdz.dev)
+- **Web personal:** [javierdz.dev](https://javierdz.dev)
+- **LinkedIn:** [in/javierdzalarcon](https://go.javierdz.dev/linkedin)
+
+---
+
+### 🧩 Sobre mí
+Intento hacer que mis proyectos sean útiles, escalables y bonitos. A veces lo consigo.
