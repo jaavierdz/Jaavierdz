@@ -44,7 +44,7 @@ Apasionado por la ciberseguridad, el desarrollo backend y la creación de herram
 ## 📫 Contacto
 
 - **Email:** [hi@javierdz.dev](mailto:hi@javierdz.dev)
-- **Web personal:** [javierdz.dev](https://javierdz.dev)
+- **Web personal:** [javierdz.dev](https://javierdz.dev) o ```curl javierdz.dev```
 - **LinkedIn:** [in/javierdzalarcon](https://go.javierdz.dev/linkedin)
 
 ---
