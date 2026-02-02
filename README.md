@@ -33,14 +33,6 @@ Apasionado por la ciberseguridad, el desarrollo backend y la creación de herram
 
 ---
 
-## 📊 Estadísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaavierdz&show_icons=true&hide_border=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaavierdz&layout=compact&hide_border=true&theme=tokyonight)
-
----
-
 ## 📫 Contacto
 
 - **Email:** [hi@javierdz.dev](mailto:hi@javierdz.dev)
