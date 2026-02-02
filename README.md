@@ -28,8 +28,8 @@ Apasionado por la ciberseguridad, el desarrollo backend y la creación de herram
 
 **Frontend:** Next.js, React, Tailwind CSS  
 **Backend:** Node.js, Express, Java  
-**Infra:** Firebase, Vercel, VPS, Docker  
-**Extras:** Webhooks, APIs REST, Firestore, SQLite  
+**Infra:** Firebase, Vercel, VPS, Docker, C++  
+**Extras:** Webhooks, APIs REST, Firestore, SQLite
 
 ---
 
@@ -45,7 +45,7 @@ Apasionado por la ciberseguridad, el desarrollo backend y la creación de herram
 
 - **Email:** [hi@javierdz.dev](mailto:hi@javierdz.dev)
 - **Web personal:** [javierdz.dev](https://javierdz.dev) o ```curl javierdz.dev```
-- **LinkedIn:** [in/javierdzalarcon](https://go.javierdz.dev/linkedin)
+- **LinkedIn:** [in/javierdzalarcon](https://javierdz.dev/linkedin)
 
 ---
 
